@@ -1,0 +1,12 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+temp
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directory
+node_modules
